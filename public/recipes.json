@@ -1,0 +1,68 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Grilled Chicken with Basil",
+    "image": "https://i.ibb.co.com/tHPqY0g/grilled-chicken-with-basil.jpg",
+    "short_description": "Juicy grilled chicken marinated in soy sauce and served with fresh basil.",
+    "ingredients": [
+      "550 g chicken breast",
+      "120 ml soy sauce",
+      "200 g basil leaves"
+    ],
+    "preparing_time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Vegan Buddha Bowl",
+    "image": "https://i.ibb.co.com/Dtk0nmp/vegan-buddha-bowl.jpg",
+    "short_description": "A vibrant Buddha bowl packed with quinoa, chickpeas, and tofu.",
+    "ingredients": ["200 g quinoa", "150 g roasted chickpeas", "100 g tofu"],
+    "preparing_time": "25 min",
+    "calories": "400 calories"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Spaghetti Carbonara",
+    "image": "https://i.ibb.co.com/8j0ZxWh/spaghetti-arbonara.jpg",
+    "short_description": "Classic Italian spaghetti carbonara with pancetta and parmesan.",
+    "ingredients": [
+      "400 g spaghetti",
+      "150 g pancetta",
+      "100 g parmesan cheese"
+    ],
+    "preparing_time": "20 min",
+    "calories": "600 calories"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Avocado Toast",
+    "image": "https://i.ibb.co.com/F5XQXrg/avocado-toast.jpg",
+    "short_description": "Simple avocado toast topped with chili flakes.",
+    "ingredients": [
+      "1 ripe avocado",
+      "2 slices whole grain bread",
+      "1 tsp chili flakes"
+    ],
+    "preparing_time": "10 min",
+    "calories": "250 calories"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Beef Stir Fry",
+    "image": "https://i.ibb.co.com/5GSXb1R/beef-fry.jpg",
+    "short_description": "Quick beef stir fry with bell peppers and broccoli.",
+    "ingredients": ["300 g beef strips", "1 red bell pepper", "100 g broccoli"],
+    "preparing_time": "15 min",
+    "calories": "450 calories"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Mango Smoothie",
+    "image": "https://i.ibb.co.com/tC9435T/mango.jpg",
+    "short_description": "Refreshing mango smoothie with yogurt and honey.",
+    "ingredients": ["2 ripe mangoes", "200 ml yogurt", "1 tbsp honey"],
+    "preparing_time": "5 min",
+    "calories": "180 calories"
+  }
+]
