@@ -3,7 +3,7 @@ import Header from "./components/Header/Header";
 
 const App = () => {
   return (
-    <div className="max-w-[1320px] mx-auto">
+    <div className="container mx-auto">
       <Header></Header>
     </div>
   );

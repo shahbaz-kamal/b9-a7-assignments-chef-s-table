@@ -1,11 +1,13 @@
+import Banner from "../Banner/Banner";
+
 const Header = () => {
   return (
-    <header className="mt-5">
+    <header className="mt-5 px-3 md:px-0 container mx-auto">
       {/* navbar starts */}
-      <nav>
-        <div className="navbar bg-base-100">
+      <nav className="mb-6 md:mb-12">
+        <div className="navbar ">
           <div className="navbar-start">
-            <a className="btn btn-ghost font-bold text-2xl md:text-3xl text-color-15">
+            <a className=" font-bold text-2xl md:text-3xl text-color-15">
               Recipe Calories
             </a>
           </div>
@@ -41,6 +43,8 @@ const Header = () => {
           </div>
         </div>
       </nav>
+      {/* Heroi section starts */}
+      <Banner></Banner>
     </header>
   );
 };

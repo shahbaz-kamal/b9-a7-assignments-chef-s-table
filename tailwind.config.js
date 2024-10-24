@@ -5,6 +5,7 @@ export default {
     extend: {
       colors: {
         "color-15": "#150B2B",
+        "color-15-0": "rgba(21, 11, 43, 0)",
         "color-15-70": "rgba(21, 11, 43, 0.7)",
         "color-15-5": "rgba(21, 11, 43, 0.05)",
         "color-ob": "#0BE58A",
