@@ -2,7 +2,7 @@ import Banner from "../Banner/Banner";
 
 const Header = () => {
   return (
-    <header className="mt-5 px-3 md:px-0 container mx-auto">
+    <header className="mt-5 px-3 md:px-0 container mx-auto mb-16 md:mb-24">
       {/* navbar starts */}
       <nav className="mb-6 md:mb-12">
         <div className="navbar ">

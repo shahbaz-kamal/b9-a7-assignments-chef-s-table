@@ -9,7 +9,7 @@
       "120 ml soy sauce",
       "200 g basil leaves"
     ],
-    "preparing_time": "30 min",
+    "preparing_time": "30 minutes",
     "calories": "320 calories"
   },
   {
@@ -18,7 +18,7 @@
     "image": "https://i.ibb.co.com/Dtk0nmp/vegan-buddha-bowl.jpg",
     "short_description": "A vibrant Buddha bowl packed with quinoa, chickpeas, and tofu.",
     "ingredients": ["200 g quinoa", "150 g roasted chickpeas", "100 g tofu"],
-    "preparing_time": "25 min",
+    "preparing_time": "25 minutes",
     "calories": "400 calories"
   },
   {
@@ -31,20 +31,20 @@
       "150 g pancetta",
       "100 g parmesan cheese"
     ],
-    "preparing_time": "20 min",
+    "preparing_time": "20 minutes",
     "calories": "600 calories"
   },
   {
     "recipe_id": 4,
     "recipe_name": "Avocado Toast",
     "image": "https://i.ibb.co.com/F5XQXrg/avocado-toast.jpg",
-    "short_description": "Simple avocado toast topped with chili flakes.",
+    "short_description": "Simple avocado toast topped with chili flakes. Very Tasty",
     "ingredients": [
       "1 ripe avocado",
       "2 slices whole grain bread",
       "1 tsp chili flakes"
     ],
-    "preparing_time": "10 min",
+    "preparing_time": "10 minutes",
     "calories": "250 calories"
   },
   {
@@ -53,7 +53,7 @@
     "image": "https://i.ibb.co.com/5GSXb1R/beef-fry.jpg",
     "short_description": "Quick beef stir fry with bell peppers and broccoli.",
     "ingredients": ["300 g beef strips", "1 red bell pepper", "100 g broccoli"],
-    "preparing_time": "15 min",
+    "preparing_time": "15 minutes",
     "calories": "450 calories"
   },
   {
@@ -62,7 +62,7 @@
     "image": "https://i.ibb.co.com/tC9435T/mango.jpg",
     "short_description": "Refreshing mango smoothie with yogurt and honey.",
     "ingredients": ["2 ripe mangoes", "200 ml yogurt", "1 tbsp honey"],
-    "preparing_time": "5 min",
+    "preparing_time": "5 minutes",
     "calories": "180 calories"
   }
 ]
