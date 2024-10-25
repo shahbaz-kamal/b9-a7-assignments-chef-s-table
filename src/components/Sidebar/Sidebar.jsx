@@ -105,10 +105,10 @@ const Sidebar = ({
               <th className="text-base text-color-28-80 font-semibold"></th>
               <td className="text-base text-color-28-70"></td>
               <td className="text-base text-color-28-70">
-                Total Time={totalTime}
+                Total Time={totalTime} minutes
               </td>
               <td className="text-base text-color-28-70">
-                TotalCalory={totalCalories}
+                TotalCalory={totalCalories} calories
               </td>
               <td></td>
             </tr>
