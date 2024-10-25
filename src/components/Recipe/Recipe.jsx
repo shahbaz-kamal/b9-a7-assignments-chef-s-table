@@ -1,5 +1,5 @@
 import "./Recipe.css";
-const Recipe = ({ recipe }) => {
+const Recipe = ({ recipe, handleAddToRecipeQueue }) => {
   const {
     recipe_id,
     recipe_name,
@@ -45,8 +45,8 @@ const Recipe = ({ recipe }) => {
           <div className="font-fira flex justify-around text-sm md:text-base text-color-28-80 ">
             {/* minutes */}
             <div className="flex items-center gap-2">
-              <i class="fa-regular fa-clock"></i>
-              <p className="">{preparing_time}</p>
+              <i className="fa-regular fa-clock"></i>
+              <p className="">{preparing_time} minutes</p>
             </div>
             {/* calories */}
             <div className="flex items-center gap-2">
@@ -54,11 +54,14 @@ const Recipe = ({ recipe }) => {
                 className="fa-solid fa-fire opacity-80"
                 style={{ color: "#282828" }}
               ></i>
-              <p>{calories}</p>
+              <p>{calories} calories</p>
             </div>
           </div>
-          <div className="card-actions">
-            <button className="bg-color-ob px-4 md:px-6 py-2 md:py-3 rounded-[50px] mt-4 md:mt-6 font-medium text-color-15 text-base md:text-lg hover:bg-[#33EFA2]">
+          <div className="flex items-center justify-center lg:justify-start">
+            <button
+              onClick={() => handleAddToRecipeQueue(recipe)}
+              className="bg-color-ob px-4 md:px-6 py-2 md:py-3 rounded-[50px] mt-4 md:mt-6 font-medium text-color-15 text-base md:text-lg hover:bg-[#33EFA2]"
+            >
               Want to Cook
             </button>
           </div>
